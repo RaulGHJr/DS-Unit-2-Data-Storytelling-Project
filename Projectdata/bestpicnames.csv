@@ -1,0 +1,486 @@
+,Film Name, Box Office Gross 
+75,Black Swan (2010)," $106,954,678.00 "
+76,The Fighter (2010)," $93,617,009.00 "
+77,Inception (2010)," $292,576,195.00 "
+78,The Kids Are All Right (2010)," $20,811,365.00 "
+79,The King's Speech (2010)," $135,453,143.00 "
+80,127 Hours (2010)," $18,335,230.00 "
+81,The Social Network (2010)," $96,962,694.00 "
+82,Toy Story 3 (2010)," $415,004,880.00 "
+83,True Grit (2010)," $171,243,005.00 "
+84,Winter's Bone (2010)," $6,531,503.00 "
+213,Avatar (2009)," $749,766,139.00 "
+214,The Blind Side (2009)," $255,959,475.00 "
+215,District 9 (2009)," $115,646,235.00 "
+216,An Education (2009)," $12,574,914.00 "
+217,The Hurt Locker (2009)," $17,017,811.00 "
+218,Inglourious Basterds (2009)," $120,540,719.00 "
+219,Precious: Based on the Novel 'Push' by Sapphire (2009)," $47,566,524.00 "
+220,A Serious Man (2009)," $9,228,768.00 "
+221,Up (2009)," $293,004,164.00 "
+222,Up in the Air (2009)," $83,823,381.00 "
+348,The Curious Case of Benjamin Button (2008)," $127,509,326.00 "
+349,Frost/Nixon (2008)," $18,622,031.00 "
+350,Milk (2008)," $31,841,299.00 "
+351,The Reader (2008)," $34,194,407.00 "
+352,Slumdog Millionaire (2008)," $141,319,928.00 "
+468,Atonement (2007)," $50,927,067.00 "
+469,Juno (2007)," $143,495,265.00 "
+470,Michael Clayton (2007)," $49,033,882.00 "
+471,No Country for Old Men (2007)," $74,283,625.00 "
+472,There Will Be Blood (2007)," $40,222,514.00 "
+595,Babel (2006)," $34,302,837.00 "
+596,The Departed (2006)," $132,384,315.00 "
+597,Letters from Iwo Jima (2006)," $13,756,082.00 "
+598,Little Miss Sunshine (2006)," $59,891,098.00 "
+599,The Queen (2006)," $56,441,711.00 "
+723,Brokeback Mountain (2005)," $83,043,761.00 "
+724,Capote (2005)," $28,750,530.00 "
+725,Crash (2005)," $54,580,300.00 "
+726,"Good Night, and Good Luck. (2005)"," $31,558,003.00 "
+727,Munich (2005)," $47,403,685.00 "
+855,The Aviator (2004)," $102,610,330.00 "
+856,Finding Neverland (2004)," $51,680,613.00 "
+857,Million Dollar Baby (2004)," $100,492,203.00 "
+858,Ray (2004)," $75,331,600.00 "
+859,Sideways (2004)," $71,503,593.00 "
+982,The Lord of the Rings: The Return of the King (2003)," $337,027,325.00 "
+983,Lost in Translation (2003)," $44,585,453.00 "
+984,Master and Commander: The Far Side of the World (2003)," $93,927,920.00 "
+985,Mystic River (2003)," $90,135,191.00 "
+986,Seabiscuit (2003)," $120,277,854.00 "
+1106,Chicago (2002)," $170,687,518.00 "
+1107,Gangs of New York (2002)," $77,812,000.00 "
+1108,The Hours (2002)," $41,675,994.00 "
+1109,The Lord of the Rings: The Two Towers (2002)," $339,789,881.00 "
+1110,The Pianist (2002)," $32,572,577.00 "
+1231,A Beautiful Mind (2001)," $170,742,341.00 "
+1232,Gosford Park (2001)," $41,308,615.00 "
+1233,In the Bedroom (2001)," $35,930,604.00 "
+1234,The Lord of the Rings: The Fellowship of the Ring (2001)," $313,364,114.00 "
+1235,Moulin Rouge (2001)," $57,386,607.00 "
+1367,Chocolat (2000)," $71,509,363.00 "
+1368,"Crouching Tiger, Hidden Dragon (2000)"," $128,078,872.00 "
+1369,Erin Brockovich (2000)," $125,595,205.00 "
+1370,Gladiator (2000)," $187,705,427.00 "
+1371,Traffic (2000)," $124,115,725.00 "
+1495,American Beauty (1999)," $130,096,601.00 "
+1496,The Cider House Rules (1999)," $57,545,092.00 "
+1497,The Green Mile (1999)," $136,801,374.00 "
+1498,The Insider (1999)," $29,089,912.00 "
+1499,The Sixth Sense (1999)," $293,506,292.00 "
+1625,Elizabeth (1998)," $30,082,699.00 "
+1626,Life Is Beautiful (1998)," $57,247,384.00 "
+1627,Saving Private Ryan (1998)," $216,540,909.00 "
+1628,Shakespeare in Love (1998)," $100,317,794.00 "
+1629,The Thin Red Line (1998)," $36,400,491.00 "
+1777,As Good as It Gets (1997)," $148,478,011.00 "
+1778,The Full Monty (1997)," $45,950,122.00 "
+1779,Good Will Hunting (1997)," $138,433,435.00 "
+1780,L.A. Confidential (1997)," $64,616,940.00 "
+1781,Titanic (1997)," $600,788,188.00 "
+1914,The English Patient (1996)," $78,676,425.00 "
+1915,Fargo (1996)," $24,611,975.00 "
+1916,Jerry Maguire (1996)," $153,952,592.00 "
+1917,Secrets & Lies (1996)," $13,417,292.00 "
+1918,Shine (1996)," $35,892,330.00 "
+2046,Apollo 13 (1995)," $172,071,312.00 "
+2047,Babe (1995)," $63,658,910.00 "
+2048,Braveheart (1995)," $75,609,945.00 "
+2049,The Postman (Il Postino) (1995)," $21,848,932.00 "
+2050,Sense and Sensibility (1995)," $43,182,776.00 "
+2181,Forrest Gump (1994)," $329,694,499.00 "
+2182,Four Weddings and a Funeral (1994)," $52,700,832.00 "
+2183,Pulp Fiction (1994)," $107,928,762.00 "
+2184,Quiz Show (1994)," $24,822,619.00 "
+2185,The Shawshank Redemption (1994)," $28,341,469.00 "
+2317,The Fugitive (1993)," $183,875,760.00 "
+2318,In the Name of the Father (1993)," $25,096,862.00 "
+2319,The Piano (1993)," $40,157,586.00 "
+2320,The Remains of the Day (1993)," $23,237,911.00 "
+2321,Schindler's List (1993)," $96,065,768.00 "
+2438,The Crying Game (1992)," $62,548,947.00 "
+2439,A Few Good Men (1992)," $141,340,178.00 "
+2440,Howards End (1992)," $25,966,555.00 "
+2441,Scent of a Woman (1992)," $63,095,253.00 "
+2442,Unforgiven (1992)," $101,157,447.00 "
+2564,Beauty and the Beast (1991)," $145,863,363.00 "
+2565,Bugsy (1991)," $49,114,016.00 "
+2566,JFK (1991)," $70,405,498.00 "
+2567,The Prince of Tides (1991)," $74,787,599.00 "
+2568,The Silence of the Lambs (1991)," $130,742,922.00 "
+2689,Awakenings (1990)," $52,096,475.00 "
+2690,Dances With Wolves (1990)," $184,208,848.00 "
+2691,Ghost (1990)," $217,631,306.00 "
+2692,"The Godfather, Part III (1990)"," $66,666,062.00 "
+2693,Good Fellas (1990)," $46,836,214.00 "
+2816,Born on the Fourth of July (1989)," $70,001,698.00 "
+2817,Dead Poets Society (1989)," $95,860,116.00 "
+2818,Driving Miss Daisy (1989)," $106,593,296.00 "
+2819,Field of Dreams (1989)," $64,431,625.00 "
+2820,My Left Foot (1989)," $14,743,391.00 "
+2931,The Accidental Tourist (1988)," $32,632,093.00 "
+2932,Dangerous Liaisons (1988)," $34,670,720.00 "
+2933,Mississippi Burning (1988)," $34,603,943.00 "
+2934,Rain Man (1988)," $172,825,435.00 "
+2935,Working Girl (1988)," $63,779,477.00 "
+3055,Broadcast News (1987)," $51,249,404.00 "
+3056,Fatal Attraction (1987)," $156,645,693.00 "
+3057,Hope and Glory (1987)," $10,021,120.00 "
+3058,The Last Emperor (1987)," $43,984,230.00 "
+3059,Moonstruck (1987)," $80,640,528.00 "
+3175,Children of a Lesser God (1986)," $31,853,080.00 "
+3176,Hannah and Her Sisters (1986)," $35,392,203.00 "
+3177,The Mission (1986)," $17,218,023.00 "
+3178,Platoon (1986)," $138,530,565.00 "
+3179,A Room with a View (1986)," $20,966,644.00 "
+3298,The Color Purple (1985)," $94,175,854.00 "
+3299,Kiss of the Spider Woman (1985)," $17,005,229.00 "
+3300,Out of Africa (1985)," $87,071,205.00 "
+3301,Prizzi's Honor (1985)," $26,657,534.00 "
+3302,Witness (1985)," $68,706,993.00 "
+3417,Amadeus (1984)," $51,564,280.00 "
+3418,The Killing Fields (1984)," $61,700,291.00 "
+3419,A Passage to India (1984)," $27,187,653.00 "
+3420,Places in the Heart (1984)," $34,901,614.00 "
+3421,A Soldier's Story (1984)," $21,821,347.00 "
+3535,The Big Chill (1983)," $56,342,711.00 "
+3536,The Dresser (1983)," $5,310,748.00 "
+3537,The Right Stuff (1983)," $21,192,102.00 "
+3538,Tender Mercies (1983)," $8,443,124.00 "
+3539,Terms of Endearment (1983)," $108,423,489.00 "
+3653,E.T. The Extra-Terrestrial (1982)," $359,197,037.00 "
+3654,Gandhi (1982)," $52,767,889.00 "
+3655,Missing (1982)," $14,000,000.00 "
+3656,Tootsie (1982)," $177,200,000.00 "
+3657,The Verdict (1982)," $53,977,250.00 "
+3773,Atlantic City (1981)," $12,729,678.00 "
+3774,Chariots of Fire (1981)," $58,972,904.00 "
+3775,On Golden Pond (1981)," $119,285,432.00 "
+3776,Raiders of the Lost Ark (1981)," $212,222,025.00 "
+3777,Reds (1981)," $40,382,659.00 "
+3891,Coal Miner's Daughter (1980)," $67,182,787.00 "
+3892,The Elephant Man (1980)," $26,010,864.00 "
+3893,Ordinary People (1980)," $54,766,923.00 "
+3894,Raging Bull (1980)," $23,334,953.00 "
+3895,Tess (1980)," $20,093,330.00 "
+4007,All That Jazz (1979)," $37,823,676.00 "
+4008,Apocalypse Now (1979)," $78,784,010.00 "
+4009,Breaking Away (1979)," $16,424,918.00 "
+4010,Kramer vs. Kramer (1979)," $106,260,000.00 "
+4011,Norma Rae (1979)," $22,228,000.00 "
+4132,Coming Home (1978)," $32,653,905.00 "
+4133,The Deer Hunter (1978)," $48,979,328.00 "
+4134,Heaven Can Wait (1978)," $81,640,278.00 "
+4135,Midnight Express (1978)," $35,000,000.00 "
+4136,An Unmarried Woman (1978)," $24,000,000.00 "
+4252,Annie Hall (1977)," $38,251,425.00 "
+4253,The Goodbye Girl (1977)," $102,000,000.00 "
+4254,Julia (1977)," $20,714,400.00 "
+4255,Star Wars (1977)," $307,263,857.00 "
+4256,The Turning Point (1977)," $25,933,445.00 "
+4377,All the President's Men (1976)," $70,600,000.00 "
+4378,Bound for Glory (1976), n/a 
+4379,Network (1976)," $23,689,877.00 "
+4380,Rocky (1976)," $117,235,147.00 "
+4381,Taxi Driver (1976)," $28,262,574.00 "
+4490,Barry Lyndon (1975)," $20,200,000.00 "
+4491,Dog Day Afternoon (1975)," $50,000,000.00 "
+4492,Jaws (1975)," $123,100,000.00 "
+4493,Nashville (1975)," $9,984,123.00 "
+4494,One Flew over the Cuckoo's Nest (1975)," $109,981,275.00 "
+4608,Chinatown (1974)," $29,200,000.00 "
+4609,The Conversation (1974)," $4,420,000.00 "
+4610,The Godfather Part II (1974)," $47,542,841.00 "
+4611,Lenny (1974)," $11,620,000.00 "
+4612,The Towering Inferno (1974)," $116,000,000.00 "
+4723,American Graffiti (1973)," $115,000,000.00 "
+4724,Cries and Whispers (1973)," $1,500,000.00 "
+4725,The Exorcist (1973)," $232,906,145.00 "
+4726,The Sting (1973)," $156,000,000.00 "
+4727,A Touch of Class (1973)," $16,800,000.00 "
+4833,Cabaret (1972)," $42,800,000.00 "
+4834,Deliverance (1972)," $46,100,000.00 "
+4835,The Emigrants (1972), n/a 
+4836,The Godfather (1972)," $134,966,411.00 "
+4837,Sounder (1972)," $17,000,000.00 "
+4948,A Clockwork Orange (1971)," $26,589,355.00 "
+4949,Fiddler on the Roof (1971)," $10,404,330.00 "
+4950,The French Connection (1971)," $51,700,000.00 "
+4951,The Last Picture Show (1971)," $29,133,000.00 "
+4952,Nicholas and Alexandra (1971)," $7,000,000.00 "
+5058,Airport (1970)," $100,489,151.00 "
+5059,Five Easy Pieces (1970)," $18,100,000.00 "
+5060,Love Story (1970)," $106,397,186.00 "
+5061,M*A*S*H (1970)," $81,600,000.00 "
+5062,Patton (1970)," $61,749,765.00 "
+5170,Anne of the Thousand Days (1969)," $6,134,000.00 "
+5171,Butch Cassidy and the Sundance Kid (1969)," $102,308,889.00 "
+5172,"Hello, Dolly! (1969)"," $26,000,000.00 "
+5173,Midnight Cowboy (1969)," $44,758,053.00 "
+5174,Z (1969)," $17,300,000.00 "
+5283,Funny Girl (1968)," $52,223,306.00 "
+5284,The Lion in Winter (1968)," $22,300,000.00 "
+5285,Oliver! (1968)," $77,400,000.00 "
+5286,"Rachel, Rachel (1968)"," $3,000,000.00 "
+5287,Romeo and Juliet (1968)," $38,900,000.00 "
+5402,Bonnie and Clyde (1967)," $70,000,000.00 "
+5403,Doctor Dolittle (1967)," $9,000,000.00 "
+5404,The Graduate (1967)," $104,900,000.00 "
+5405,Guess Who's Coming to Dinner (1967)," $56,700,000.00 "
+5406,In the Heat of the Night (1967)," $24,300,000.00 "
+5530,Alfie (1966)," $18,870,000.00 "
+5531,A Man for All Seasons (1966)," $28,400,000.00 "
+5532,The Russians Are Coming The Russians Are Coming (1966)," $21,690,000.00 "
+5533,The Sand Pebbles (1966)," $30,000,000.00 "
+5534,Who's Afraid of Virginia Woolf? (1966)," $40,000,000.00 "
+5659,Darling (1965)," $4,000,000.00 "
+5660,Doctor Zhivago (1965)," $111,821,910.00 "
+5661,Ship of Fools (1965)," $3,500,000.00 "
+5662,The Sound of Music (1965)," $158,671,368.00 "
+5663,A Thousand Clowns (1965)," $2,400,000.00 "
+5787,Becket (1964)," $9,100,000.00 "
+5788,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)," $9,400,000.00 "
+5789,Mary Poppins (1964)," $102,300,000.00 "
+5790,My Fair Lady (1964)," $72,000,000.00 "
+5791,Zorba the Greek (1964)," $23,500,000.00 "
+5917,America America (1963), n/a 
+5918,Cleopatra (1963)," $57,000,000.00 "
+5919,How the West Was Won (1963)," $46,500,000.00 "
+5920,Lilies of the Field (1963)," $3,000,000.00 "
+5921,Tom Jones (1963)," $37,600,000.00 "
+6038,Lawrence of Arabia (1962)," $70,000,000.00 "
+6039,The Longest Day (1962)," $50,100,000.00 "
+6040,Meredith Willson's The Music Man (1962)," $15,000,000.00 "
+6041,Mutiny on the Bounty (1962)," $13,600,000.00 "
+6042,To Kill a Mockingbird (1962)," $13,100,000.00 "
+6164,Fanny (1961)," $4,500,000.00 "
+6165,The Guns of Navarone (1961)," $28,900,000.00 "
+6166,The Hustler (1961)," $7,600,000.00 "
+6167,Judgment at Nuremberg (1961)," $10,000,000.00 "
+6168,West Side Story (1961)," $44,100,000.00 "
+6294,The Alamo (1960)," $20,000,000.00 "
+6295,The Apartment (1960)," $24,600,000.00 "
+6296,Elmer Gantry (1960)," $5,200,000.00 "
+6297,Sons and Lovers (1960)," $1,500,000.00 "
+6298,The Sundowners (1960)," $3,800,000.00 "
+6418,Anatomy of a Murder (1959)," $11,000,000.00 "
+6419,Ben-Hur (1959)," $146,900,000.00 "
+6420,The Diary of Anne Frank (1959)," $2,300,000.00 "
+6421,The Nun's Story (1959)," $12,800,000.00 "
+6422,Room at the Top (1959)," $2,400,000.00 "
+6538,Auntie Mame (1958),
+6539,Cat on a Hot Tin Roof (1958),
+6540,The Defiant Ones (1958),
+6541,Gigi (1958),
+6542,Separate Tables (1958),
+6637,The Bridge on the River Kwai (1957),
+6638,Peyton Place (1957),
+6639,Sayonara (1957),
+6640,12 Angry Men (1957),
+6641,Witness for the Prosecution (1957),
+6768,Around the World in 80 Days (1956),
+6769,Friendly Persuasion (1956),
+6770,Giant (1956),
+6771,The King and I (1956),
+6772,The Ten Commandments (1956),
+6895,Love Is a Many-Splendored Thing (1955),
+6896,Marty (1955),
+6897,Mister Roberts (1955),
+6898,Picnic (1955),
+6899,The Rose Tattoo (1955),
+7029,The Caine Mutiny (1954),
+7030,The Country Girl (1954),
+7031,On the Waterfront (1954),
+7032,Seven Brides for Seven Brothers (1954),
+7033,Three Coins in the Fountain (1954),
+7170,From Here to Eternity (1953),
+7171,Julius Caesar (1953),
+7172,The Robe (1953),
+7173,Roman Holiday (1953),
+7174,Shane (1953),
+7305,The Greatest Show on Earth (1952),
+7306,High Noon (1952),
+7307,Ivanhoe (1952),
+7308,Moulin Rouge (1952),
+7309,The Quiet Man (1952),
+7441,An American in Paris (1951),
+7442,Decision before Dawn (1951),
+7443,A Place in the Sun (1951),
+7444,Quo Vadis (1951),
+7445,A Streetcar Named Desire (1951),
+7560,All about Eve (1950),
+7561,Born Yesterday (1950),
+7562,Father of the Bride (1950),
+7563,King Solomon's Mines (1950),
+7564,Sunset Blvd. (1950),
+7672,All the King's Men (1949),
+7673,Battleground (1949),
+7674,The Heiress (1949),
+7675,A Letter to Three Wives (1949),
+7676,Twelve O'Clock High (1949),
+7794,Hamlet (1948),
+7795,Johnny Belinda (1948),
+7796,The Red Shoes (1948),
+7797,The Snake Pit (1948),
+7798,The Treasure of the Sierra Madre (1948),
+7903,The Bishop's Wife (1947),
+7904,Crossfire (1947),
+7905,Gentleman's Agreement (1947),
+7906,Great Expectations (1947),
+7907,Miracle on 34th Street (1947),
+8016,The Best Years of Our Lives (1946),
+8017,Henry V (1946),
+8018,It's a Wonderful Life (1946),
+8019,The Razor's Edge (1946),
+8020,The Yearling (1946),
+8172,Anchors Aweigh (1945),
+8173,The Bells of St. Mary's (1945),
+8174,The Lost Weekend (1945),
+8175,Mildred Pierce (1945),
+8176,Spellbound (1945),
+8346,Double Indemnity (1944),
+8347,Gaslight (1944),
+8348,Going My Way (1944),
+8349,Since You Went Away (1944),
+8350,Wilson (1944),
+8535,Casablanca (1943),
+8536,For Whom the Bell Tolls (1943),
+8537,Heaven Can Wait (1943),
+8538,The Human Comedy (1943),
+8539,In Which We Serve (1943),
+8540,Madame Curie (1943),
+8541,The More the Merrier (1943),
+8542,The Ox-Bow Incident (1943),
+8543,The Song of Bernadette (1943),
+8544,Watch on the Rhine (1943),
+8723,The Invaders (1942),
+8724,Kings Row (1942),
+8725,The Magnificent Ambersons (1942),
+8726,Mrs. Miniver (1942),
+8727,The Pied Piper (1942),
+8728,The Pride of the Yankees (1942),
+8729,Random Harvest (1942),
+8730,The Talk of the Town (1942),
+8731,Wake Island (1942),
+8732,Yankee Doodle Dandy (1942),
+8904,Blossoms in the Dust (1941),
+8905,Citizen Kane (1941),
+8906,Here Comes Mr. Jordan (1941),
+8907,Hold Back the Dawn (1941),
+8908,How Green Was My Valley (1941),
+8909,The Little Foxes (1941),
+8910,The Maltese Falcon (1941),
+8911,One Foot in Heaven (1941),
+8912,Sergeant York (1941),
+8913,Suspicion (1941),
+9081,"All This, and Heaven Too (1940)",
+9082,Foreign Correspondent (1940),
+9083,The Grapes of Wrath (1940),
+9084,The Great Dictator (1940),
+9085,Kitty Foyle (1940),
+9086,The Letter (1940),
+9087,The Long Voyage Home (1940),
+9088,Our Town (1940),
+9089,The Philadelphia Story (1940),
+9090,Rebecca (1940),
+9234,Dark Victory (1939),
+9235,Gone with the Wind (1939),
+9236,"Goodbye, Mr. Chips (1939)",
+9237,Love Affair (1939),
+9238,Mr. Smith Goes to Washington (1939),
+9239,Ninotchka (1939),
+9240,Of Mice and Men (1939),
+9241,Stagecoach (1939),
+9242,The Wizard of Oz (1939),
+9243,Wuthering Heights (1939),
+9385,The Adventures of Robin Hood (1938),
+9386,Alexander's Ragtime Band (1938),
+9387,Boys Town (1938),
+9388,The Citadel (1938),
+9389,Four Daughters (1938),
+9390,Grand Illusion (1938),
+9391,Jezebel (1938),
+9392,Pygmalion (1938),
+9393,Test Pilot (1938),
+9394,You Can't Take It with You (1938),
+9508,The Awful Truth (1937),
+9509,Captains Courageous (1937),
+9510,Dead End (1937),
+9511,The Good Earth (1937),
+9512,In Old Chicago (1937),
+9513,The Life of Emile Zola (1937),
+9514,Lost Horizon (1937),
+9515,One Hundred Men and a Girl (1937),
+9516,Stage Door (1937),
+9517,A Star Is Born (1937),
+9631,Anthony Adverse (1936),
+9632,Dodsworth (1936),
+9633,The Great Ziegfeld (1936),
+9634,Libeled Lady (1936),
+9635,Mr. Deeds Goes to Town (1936),
+9636,Romeo and Juliet (1936),
+9637,San Francisco (1936),
+9638,The Story of Louis Pasteur (1936),
+9639,A Tale of Two Cities (1936),
+9640,Three Smart Girls (1936),
+9728,Alice Adams (1935),
+9729,Broadway Melody of 1936 (1935),
+9730,Captain Blood (1935),
+9731,David Copperfield (1935),
+9732,The Informer (1935),
+9733,Les Miserables (1935),
+9734,The Lives of a Bengal Lancer (1935),
+9735,A Midsummer Night's Dream (1935),
+9736,Mutiny on the Bounty (1935),
+9737,Naughty Marietta (1935),
+9738,Ruggles of Red Gap (1935),
+9739,Top Hat (1935),
+9814,The Barretts of Wimpole Street (1934),
+9815,Cleopatra (1934),
+9816,Flirtation Walk (1934),
+9817,The Gay Divorcee (1934),
+9818,Here Comes the Navy (1934),
+9819,The House of Rothschild (1934),
+9820,Imitation of Life (1934),
+9821,It Happened One Night (1934),
+9822,One Night of Love (1934),
+9823,The Thin Man (1934),
+9824,Viva Villa! (1934),
+9825,The White Parade (1934),
+9871,Cavalcade (1932/33),
+9872,A Farewell to Arms (1932/33),
+9873,42nd Street (1932/33),
+9874,I Am a Fugitive from a Chain Gang (1932/33),
+9875,Lady for a Day (1932/33),
+9876,Little Women (1932/33),
+9877,The Private Life of Henry VIII (1932/33),
+9878,She Done Him Wrong (1932/33),
+9879,Smilin' Through (1932/33),
+9880,State Fair (1932/33),
+9936,Arrowsmith (1931/32),
+9937,Bad Girl (1931/32),
+9938,The Champ (1931/32),
+9939,Five Star Final (1931/32),
+9940,Grand Hotel (1931/32),
+9941,One Hour with You (1931/32),
+9942,Shanghai Express (1931/32),
+9943,The Smiling Lieutenant (1931/32),
+9993,Cimarron (1930/31),
+9994,East Lynne (1930/31),
+9995,The Front Page (1930/31),
+9996,Skippy (1930/31),
+9997,Trader Horn (1930/31),
+10045,All Quiet on the Western Front (1929/30),
+10046,The Big House (1929/30),
+10047,Disraeli (1929/30),
+10048,The Divorcee (1929/30),
+10049,The Love Parade (1929/30),
+10087,Feature Productions (1928/29),
+10088,In Old Arizona (1928/29),
+10089,The Broadway Melody (1928/29),
+10090,Hollywood Revue (1928/29),
+10091,The Patriot (1928/29),
+10117,The Racket (1927/28),
+10118,7th Heaven (1927/28),
+10119,Wings (1927/28),
