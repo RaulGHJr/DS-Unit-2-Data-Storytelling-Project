@@ -26,6 +26,10 @@ I fit my model using the Oscar nominations and wins in what are considered to be
     6) Production Design
     7) Sound**
 
+I explored how much of an effect Wins and Nominations in these categories affect the probobality of a film winning Best Picture
+
+![alt textt](https://github.com/cicbeast/DS-Unit-2-Data-Storytelling-Project/blob/master/Projectdata/visual2.JPG?raw=true)
+
 My Goal is that no one ever be surprised at the end of Oscar Night ever again.
 
 WISH ME LUCK!
